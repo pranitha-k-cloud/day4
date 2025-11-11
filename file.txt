@@ -1,2 +1,6 @@
 Initial content
+<<<<<<< Updated upstream
 Hotfix applied
+=======
+Feature X in progress
+>>>>>>> Stashed changes
