@@ -1,3 +1,5 @@
 Initial version
 Feature A added
 Bug fix in feature A
+Refactor feature A
+Final polish before release
