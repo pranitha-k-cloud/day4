@@ -1,2 +1,3 @@
 Initial version
 Feature A added
+Bug fix in feature A
